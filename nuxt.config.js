@@ -15,6 +15,10 @@ export default {
     ]
   },
 
+  script: [
+    {src:"https://unpkg.com/boxicons@latest/dist/boxicons.js"}  
+  ],
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],
